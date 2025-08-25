@@ -1,0 +1,17 @@
+D:\API\CustomerSolution\CustomerInfrastructure\bin\Debug\net8.0\CustomerInfrastructure.deps.json
+D:\API\CustomerSolution\CustomerInfrastructure\bin\Debug\net8.0\CustomerInfrastructure.dll
+D:\API\CustomerSolution\CustomerInfrastructure\bin\Debug\net8.0\CustomerInfrastructure.pdb
+D:\API\CustomerSolution\CustomerInfrastructure\bin\Debug\net8.0\CustomerDomain.dll
+D:\API\CustomerSolution\CustomerInfrastructure\bin\Debug\net8.0\CustomerDomain.pdb
+D:\API\CustomerSolution\CustomerInfrastructure\obj\Debug\net8.0\CustomerInfrastructure.csproj.AssemblyReference.cache
+D:\API\CustomerSolution\CustomerInfrastructure\obj\Debug\net8.0\CustomerInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\API\CustomerSolution\CustomerInfrastructure\obj\Debug\net8.0\CustomerInfrastructure.AssemblyInfoInputs.cache
+D:\API\CustomerSolution\CustomerInfrastructure\obj\Debug\net8.0\CustomerInfrastructure.AssemblyInfo.cs
+D:\API\CustomerSolution\CustomerInfrastructure\obj\Debug\net8.0\CustomerInfrastructure.csproj.CoreCompileInputs.cache
+D:\API\CustomerSolution\CustomerInfrastructure\obj\Debug\net8.0\Customer.52396F51.Up2Date
+D:\API\CustomerSolution\CustomerInfrastructure\obj\Debug\net8.0\CustomerInfrastructure.dll
+D:\API\CustomerSolution\CustomerInfrastructure\obj\Debug\net8.0\refint\CustomerInfrastructure.dll
+D:\API\CustomerSolution\CustomerInfrastructure\obj\Debug\net8.0\CustomerInfrastructure.pdb
+D:\API\CustomerSolution\CustomerInfrastructure\obj\Debug\net8.0\ref\CustomerInfrastructure.dll
+D:\API\CustomerSolution\CustomerInfrastructure\bin\Debug\net8.0\CustomerInfrastructure.runtimeconfig.json
+D:\API\CustomerSolution\CustomerInfrastructure\obj\Debug\net8.0\CustomerInfrastructure.genruntimeconfig.cache

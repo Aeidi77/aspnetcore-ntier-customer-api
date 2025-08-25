@@ -1,0 +1,11 @@
+D:\API\CustomerSolution\CustomerDomain\bin\Debug\net8.0\CustomerDomain.deps.json
+D:\API\CustomerSolution\CustomerDomain\bin\Debug\net8.0\CustomerDomain.dll
+D:\API\CustomerSolution\CustomerDomain\bin\Debug\net8.0\CustomerDomain.pdb
+D:\API\CustomerSolution\CustomerDomain\obj\Debug\net8.0\CustomerDomain.GeneratedMSBuildEditorConfig.editorconfig
+D:\API\CustomerSolution\CustomerDomain\obj\Debug\net8.0\CustomerDomain.AssemblyInfoInputs.cache
+D:\API\CustomerSolution\CustomerDomain\obj\Debug\net8.0\CustomerDomain.AssemblyInfo.cs
+D:\API\CustomerSolution\CustomerDomain\obj\Debug\net8.0\CustomerDomain.csproj.CoreCompileInputs.cache
+D:\API\CustomerSolution\CustomerDomain\obj\Debug\net8.0\CustomerDomain.dll
+D:\API\CustomerSolution\CustomerDomain\obj\Debug\net8.0\refint\CustomerDomain.dll
+D:\API\CustomerSolution\CustomerDomain\obj\Debug\net8.0\CustomerDomain.pdb
+D:\API\CustomerSolution\CustomerDomain\obj\Debug\net8.0\ref\CustomerDomain.dll

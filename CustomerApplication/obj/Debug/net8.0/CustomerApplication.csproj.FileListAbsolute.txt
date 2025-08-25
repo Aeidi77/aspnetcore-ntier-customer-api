@@ -1,0 +1,17 @@
+D:\API\CustomerSolution\CustomerApplication\bin\Debug\net8.0\CustomerApplication.deps.json
+D:\API\CustomerSolution\CustomerApplication\bin\Debug\net8.0\CustomerApplication.dll
+D:\API\CustomerSolution\CustomerApplication\bin\Debug\net8.0\CustomerApplication.pdb
+D:\API\CustomerSolution\CustomerApplication\bin\Debug\net8.0\CustomerDomain.dll
+D:\API\CustomerSolution\CustomerApplication\bin\Debug\net8.0\CustomerInfrastructure.dll
+D:\API\CustomerSolution\CustomerApplication\bin\Debug\net8.0\CustomerDomain.pdb
+D:\API\CustomerSolution\CustomerApplication\bin\Debug\net8.0\CustomerInfrastructure.pdb
+D:\API\CustomerSolution\CustomerApplication\obj\Debug\net8.0\CustomerApplication.csproj.AssemblyReference.cache
+D:\API\CustomerSolution\CustomerApplication\obj\Debug\net8.0\CustomerApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\API\CustomerSolution\CustomerApplication\obj\Debug\net8.0\CustomerApplication.AssemblyInfoInputs.cache
+D:\API\CustomerSolution\CustomerApplication\obj\Debug\net8.0\CustomerApplication.AssemblyInfo.cs
+D:\API\CustomerSolution\CustomerApplication\obj\Debug\net8.0\CustomerApplication.csproj.CoreCompileInputs.cache
+D:\API\CustomerSolution\CustomerApplication\obj\Debug\net8.0\Customer.7099D97B.Up2Date
+D:\API\CustomerSolution\CustomerApplication\obj\Debug\net8.0\CustomerApplication.dll
+D:\API\CustomerSolution\CustomerApplication\obj\Debug\net8.0\refint\CustomerApplication.dll
+D:\API\CustomerSolution\CustomerApplication\obj\Debug\net8.0\CustomerApplication.pdb
+D:\API\CustomerSolution\CustomerApplication\obj\Debug\net8.0\ref\CustomerApplication.dll
